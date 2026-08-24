@@ -2,7 +2,7 @@
 
 Hey, I'm Phani <img src="assets/bufo-wave.gif" height="32" alt="Phani waving" valign="bottom">
 
-Spent a year at [Kernel](https://github.com/kernel/) (YCombinator S25). Came out knowing what I enjoy: fast-moving teams, real ownership, and products people actually care about. Looking for more of that.
+Recently wrapped up a year-long software engineering co-op at [Kernel](https://github.com/kernel/) (YCombinator S25). Came out knowing what I enjoy: fast-moving teams, real ownership, and products people actually care about. Looking for more of that.
 
 Graduating May 2027 and looking for full-time SWE roles, preferably in the Bay Area.
 
